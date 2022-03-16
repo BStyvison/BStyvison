@@ -16,3 +16,8 @@
   <!---<img align="center" alt="Rafa-Js" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />--->
 
 </div>
+
+<div>
+<div align="center"><br><br>
+<a href="https://www.linkedin.com/in/styvison-silva-viana-88a131232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
