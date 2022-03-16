@@ -1,11 +1,11 @@
-### Hi there! Eu sou o Brayan Styvison, progamador e produtor de conteúdo no tik tok!
+<h1>Hi there! Eu sou o Brayan Styvison👋</h1>
 <div align="center">
   <a href="https://github.com/BStyvison">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BStyvison&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BStyvison&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
- ### Minhas tecnologias
+  <h2>Minhas tecnologias</h2>
   <div style="display: inline_block"><br>
   <!---<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">--->
   <!---<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">--->
