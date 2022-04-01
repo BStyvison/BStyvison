@@ -1,8 +1,8 @@
 <h1>Hi there! Eu sou o Brayan Styvison👋</h1>
-<div style="display: inline-block">
+<div style="display: inline_block">
   <a href="https://github.com/BStyvison">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BStyvison&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BStyvison&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BStyvison&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BStyvison&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
   <h2>Minhas tecnologias</h2>
