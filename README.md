@@ -1,6 +1,6 @@
 <h1> Hi there! Eu sou o Brayan Styvison👋 </h1><br>
   <div align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BStyvison&hide=issues&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BStyvison&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BStyvison&layout=compact&langs_count=7&theme=radical"/>
   </div>
 <!-- <div align="center">
