@@ -3,10 +3,24 @@
 
 ### Seja bem-vindo ao meu portfolio no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Parnaiba-PI, Brasil
+- 🔰  Sou de Parnaíba-PI, Brasil
 - ⚡ Apaixonado por Esportes, Música e Tecnologia
 - 🎓 Cursando de Análise e Desenvolvimento de Sistemas
-- 🏦 Atualmente trabalho como desenvolvedor Front-End na Wizard Midia Soluções Digitais com Sede em Ribeirão Preto/SP
+- 🏦 Atualmente trabalho como <strong> Desenvolvedor Front-End </strong> na Wizard Midia Soluções Digitais com Sede em Ribeirão Preto/SP
+  
+<p align="left">
+<a href="mailto:styvisonviana@gmail.com" title="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:styvisonviana@gmail.com" alt="Gmail"/></a>
+
+<a href="https://www.linkedin.com/in/styvison/" title="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="LinkedIn"/></a>
+
+<a href="https://api.whatsapp.com/send?phone=5586995358729&text=Ol%C3%A1%20Styvison,%20conheci%20seu%20portf%C3%B3lio%20e%20estou%20interessado%20em%20saber%20mais%20sobre%20suas%20habilidades.%20Podemos%20conversar?" title="WhatsApp">
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5586995358729&text=Ol%C3%A1%20Styvison,%20conheci%20seu%20portf%C3%B3lio%20e%20estou%20interessado%20em%20saber%20mais%20sobre%20suas%20habilidades.%20Podemos%20conversar?" alt="WhatsApp"/></a>
+
+<a href="https://www.instagram.com/styvisonviana/" title="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="Instagram"/></a>
+</p>
 
 ##
 
@@ -34,14 +48,14 @@
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 ##
 
-#### Como entrar em contato comigo:
+<!--#### Como entrar em contato comigo:
 [<img alt="Email" src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red"/>](mailto:styvisonviana@gmail.com)
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/styvison/)
 [<img alt="Whatsapp" src="https://img.shields.io/badge/-linkedin-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send?phone=5586995358729&text=Ol%C3%A1%20Styvison,%20conheci%20seu%20portf%C3%B3lio%20e%20estou%20interessado%20em%20saber%20mais%20sobre%20suas%20habilidades.%20Podemos%20conversar?)
 
 ##
 
-<!-- #### Experiência Profissional:
+ #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://www.uzzipay.com/)
