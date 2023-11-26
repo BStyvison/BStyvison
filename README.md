@@ -1,4 +1,4 @@
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img src="./lineBar.png" width="100%" height="8px"/>
 
 <h1> Hi there! Eu sou o Styvison👋 </h1><br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -43,8 +43,6 @@
   <img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=css"/>
 </div>
 
-##
-
 ## Ferramentas que uso:
 [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
@@ -52,7 +50,6 @@
 [<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
 [<img height="48px" width="48px" alt="Icone wordpress" src="https://skillicons.dev/icons?i=wordpress"/>]()  
-##
 
 ## Experiência de trabalho
 
