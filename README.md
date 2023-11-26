@@ -55,7 +55,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQFGs0WBO4SFbg/company-logo_200_200/0/1699886747628?e=1709164800&v=beta&t=aKOhWUZ3OBzRZIEyfXN5VEi0XYyCFnMwZdkQfSvZLgs"/>
 
 **Desenvolvedor Front-End Junior** \
 [**Wizard Midia Soluções Digitais**] • Full-time \
