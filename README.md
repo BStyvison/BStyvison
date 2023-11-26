@@ -1,7 +1,7 @@
 <h1> Hi there! Eu sou o Styvison👋 </h1><br>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Seja bem-vindo ao meu portfolio no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+## Seja bem-vindo ao meu portfolio no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Parnaíba-PI, Brasil
 - ⚡ Apaixonado por Esportes, Música e Tecnologia
@@ -35,7 +35,6 @@
   <img height="48px" width="48px" alt="Icone styled-components" src="https://skillicons.dev/icons?i=styledcomponents"/>
   <img height="48px" width="48px" alt="Icone html" src="https://skillicons.dev/icons?i=html"/>
   <img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=css"/>
-  <img height="48px" width="48px" alt="Icone wordpress" src="https://skillicons.dev/icons?i=wordpress"/>  
 </div>
 
 ##
@@ -46,6 +45,7 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
+[<img height="48px" width="48px" alt="Icone wordpress" src="https://skillicons.dev/icons?i=wordpress"/>]()  
 ##
 
 <!--#### Como entrar em contato comigo:
