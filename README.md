@@ -7,8 +7,10 @@
 - ⚡ Apaixonado por Esportes, Música e Tecnologia
 - 🎓 Cursando de Análise e Desenvolvimento de Sistemas
 - 🏦 Atualmente trabalho como <strong> Desenvolvedor Front-End </strong> na Wizard Midia Soluções Digitais com Sede em Ribeirão Preto/SP
-  
-<p align="left">
+
+
+<p align='center'>Contate-me</p> 
+<p align="center">
 <a href="mailto:styvisonviana@gmail.com" title="Gmail">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:styvisonviana@gmail.com" alt="Gmail"/></a>
 
@@ -22,7 +24,10 @@
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="Instagram"/></a>
 </p>
 
-##
+<p align="center">
+<a  href="https://www.instagram.com/styvisonviana/" title="Meu Portfolio">
+<img src="https://img.shields.io/badge/Meu_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://www.instagram.com/styvisonviana/" alt="Instagram"/></a>
+</p>
 
 #### Minhas staks:
 <div display: "flex">
@@ -92,5 +97,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/put-here-your-u
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BStyvison&layout=compact&langs_count=7&theme=radical"/>
   <img height="190px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=BStyvison&amp;theme=radical"/>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
 
 
