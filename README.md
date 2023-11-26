@@ -67,9 +67,9 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) 
 -->
 #### Estatísticas:
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BStyvison&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BStyvison&layout=compact&langs_count=7&theme=radical"/>
-  <img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=BStyvison&amp;theme=radical"/>
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=BStyvison&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BStyvison&layout=compact&langs_count=7&theme=radical"/>
+  <img height="190px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=BStyvison&amp;theme=radical"/>
 </div>
 
 
