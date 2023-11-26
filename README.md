@@ -4,7 +4,7 @@
 ### Seja bem-vindo ao meu portfolio no GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Parnaiba-PI, Brasil
-- ⚡ Apaixonado por Música e Tecnologia
+- ⚡ Apaixonado por Esportes, Música e Tecnologia
 - 🎓 Cursando de Análise e Desenvolvimento de Sistemas
 - 🏦 Atualmente trabalho como desenvolvedor Front-End na Wizard Midia Soluções Digitais com Sede em Ribeirão Preto/SP
 
