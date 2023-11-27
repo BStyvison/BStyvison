@@ -59,14 +59,16 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedor Front-End Junior** \
 [**Wizard Midia Soluções Digitais**] • Full-time \
+Nov de 2023 - Atualmente \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `Adonis`,
 <!--Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>) -->
 <br/>
 
 <img align="left" height="94px" width="94px" alt="Rocketseat" src="https://uploaddeimagens.com.br/images/004/674/587/full/xp_midia.jpg?1701033039"/>
-
+ 
 **Desenvolvedor Front-End** \
-**Xp Mídia** • Freelarncer \
+**Xp Mídia** • Freelancer \
+Abr de 2022 - Nov de 2023 · 1 ano e 8 meses \
 Linguagens & Tecnologias: `JavaScript`, `Css`, `Html`
 <!--Projetos em destaque: [Ignite](), [Bootcamp]()-->
 <br/>
