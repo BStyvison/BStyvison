@@ -7,7 +7,7 @@
 
 - ⚡ Apaixonado por Esportes, Música e Tecnologia
 - 🎓 Cursando de Análise e Desenvolvimento de Sistemas
-- 🏦 Atualmente trabalho como <strong> Desenvolvedor Front-End </strong> na Wizard Midia Soluções Digitais
+- 🏦 Atualmente trabalho como <strong> Desenvolvedor Front-End </strong> na LIneA - Laboratório Interinstitucional de e-Astronomia
 - 💻 Confira meu [Portfólio](https://portfolio-styvison.vercel.app/)!
 
 <h2 align='left'>Meus contatos</h2> 
